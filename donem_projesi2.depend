@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1671387012 source:c:\users\latif\onedrive\masaüstü\donem_projesi2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+
+1671387012 source:c:\users\latif\onedrive\masaüstü\okul\donem_projesi2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+
